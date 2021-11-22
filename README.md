@@ -1,4 +1,5 @@
 # Bookshelves
+Création d'une application, avec Angular et Firebase, gérant notre bibliothèque de livres personnels en ligne avec authentification du User. L'utilisateur peut ajouter (titre,auteur,synopsis)/supprimer un livre. Ajouter la photo de couverture du livre s'il le souhaite et voir chaque livre individuellement.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
